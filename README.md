@@ -3,5 +3,5 @@ This repository has been created to serve as the documentation hub for all cyber
 We will diligently document and share all sessions and resources within this repository.
 
 Instructors of the Cybersecurity Department :
-Alaa Eddine Ayedi (nattycoder)
+Alaa Eddine Ayedi (nattycoder) |
 Ranim Hassine
