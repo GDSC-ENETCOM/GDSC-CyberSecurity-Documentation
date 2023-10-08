@@ -58,12 +58,12 @@ And a lot more...
 
 ## 3. Malware
 Malware is harmful software designed to damage or compromise computers, devices, or networks. It includes viruses, worms, and other malicious programs.
-![flag_logo](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/922e1762-4011-467b-83c4-430baa098b54)
+![malware-bytes](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/d23f140a-7cf6-46fb-991e-b35452ada11e)
 
 # Capture The Flag (CTF)
 ## 1. Introduction to Capture The Flag (CTF)
 A Capture The Flag (CTF) competition is like a cybersecurity game. Participants solve puzzles and find hidden information, called "flags," to earn points. These challenges test their cybersecurity skills, and the goal is to collect as many flags as possible within a time limit. It's a fun way to learn and practice cybersecurity.
-https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/1#issue-1932043853
+![flag_logo](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/922e1762-4011-467b-83c4-430baa098b54)
 ## 2. Jeopardy-Style CTF
 * ### Challenges:
   In Jeopardy-style CTFs, challenges are categorized based on different aspects of cybersecurity, such as cryptography, web security, reverse engineering, and more.
