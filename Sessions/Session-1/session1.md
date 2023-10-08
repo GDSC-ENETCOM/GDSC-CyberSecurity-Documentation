@@ -5,4 +5,9 @@ This is the first session's documentation
 What is Cybersecurity?
 -> Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
 
-General Definition : 
+Types of Cybersecurity : 
+* ### Network Security
+* ### Application Security
+* ### Cloud Security
+* ### IoT Security
+and a lot more...
