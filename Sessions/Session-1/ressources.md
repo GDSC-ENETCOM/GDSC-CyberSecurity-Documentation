@@ -21,5 +21,7 @@
 * ### PARROT SECURITY
   https://www.parrotsec.org/download/
   (pick the virtual box version)
+  #### YOUTUBR TUTORIAL
+  https://www.youtube.com/watch?v=9z-_h7aChDI
 * ### VIRTUAL BOX (to host the machines)
   https://www.virtualbox.org/wiki/Downloads
