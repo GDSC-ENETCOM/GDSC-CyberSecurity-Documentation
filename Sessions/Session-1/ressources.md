@@ -16,6 +16,8 @@
 ## VIRTUAL MACHINES AND HYPERVISOR
 * ### UBUNTU
   https://ubuntu.com/download/desktop/thank-you?version=22.04.3&architecture=amd64
+  #### YOUTUBE TUTORIAL
+  https://www.youtube.com/watch?v=hYaCCpvjsEY
 * ### PARROT SECURITY
   https://www.parrotsec.org/download/
   (pick the virtual box version)
