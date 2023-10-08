@@ -21,7 +21,7 @@ Cybersecurity protects computer systems, networks, and digital information from 
 In essence, cybersecurity is vital for safeguarding data, preserving trust, maintaining operations, protecting nations, and addressing global cyber threats.
 
 ## 3. Types of Cybersecurity : 
-https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/6#issue-1932046001
+![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/f88cf641-6c4c-4652-8695-8db190f7feba)
 * ### Network Security:
   Protects computer networks from unauthorized access, data breaches, and cyberattacks. It includes technologies like firewalls, intrusion detection systems, and VPNs.
 * ### Endpoint Security:
@@ -40,7 +40,8 @@ And a lot more...
 # Cyberattacks and Threats
 ## 1. Introduction to Cyberattacks
 Cyberattacks are harmful actions that hackers take to break into computer systems, steal information, or disrupt digital operations.
-https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/3#issue-1932044287
+![622b1df712adfa4ebff027a5_types of cyber attack](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/54207ae5-e979-4669-b45e-b895b6337a2d)
+
 ## 2. Common Cyberattacks types
 * ### Malware:
   Malicious software, such as viruses, worms, Trojans, and ransomware, infects systems and can damage, steal, or encrypt data.
@@ -57,7 +58,8 @@ And a lot more...
 
 ## 3. Malware
 Malware is harmful software designed to damage or compromise computers, devices, or networks. It includes viruses, worms, and other malicious programs.
-https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/4#issue-1932044571
+![flag_logo](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/922e1762-4011-467b-83c4-430baa098b54)
+
 # Capture The Flag (CTF)
 ## 1. Introduction to Capture The Flag (CTF)
 A Capture The Flag (CTF) competition is like a cybersecurity game. Participants solve puzzles and find hidden information, called "flags," to earn points. These challenges test their cybersecurity skills, and the goal is to collect as many flags as possible within a time limit. It's a fun way to learn and practice cybersecurity.
