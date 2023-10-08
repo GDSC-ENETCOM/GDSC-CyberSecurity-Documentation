@@ -19,7 +19,7 @@ Cybersecurity protects computer systems, networks, and digital information from 
   
 In essence, cybersecurity is vital for safeguarding data, preserving trust, maintaining operations, protecting nations, and addressing global cyber threats.
 
-** 3. Types of Cybersecurity : 
+## 3. Types of Cybersecurity : 
 * ### Network Security:
   Protects computer networks from unauthorized access, data breaches, and cyberattacks. It includes technologies like firewalls, intrusion detection systems, and VPNs.
 * ### Endpoint Security:
