@@ -4,6 +4,7 @@ This is the first session's documentation
 = Understanding Cybersecurity
 ## 1. What is Cybersecurity?
 Cybersecurity protects computer systems, networks, and digital information from theft, damage, unauthorized access, and other cyber threats.
+![growing-need-social-share](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/fcfed18c-665d-43cf-8499-51e33f44aafb)
 
 ## 2. Why is Cybersecurity Important?
 * ### Data Protection:
