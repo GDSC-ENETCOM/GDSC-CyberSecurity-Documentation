@@ -6,8 +6,6 @@ We will diligently document and share all sessions and resources within this rep
 * ### Alaa Eddine Ayedi 
 * ### Ranim Hassine
 
-![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/11b735ce-d888-412d-8c20-04740440730c)
 
-  
-
+<img src="![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/11b735ce-d888-412d-8c20-04740440730c)" width="200" text-align="center" />
 <img src="![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/c832a9ea-fdea-4461-ad6f-3a88c03d0570)" width="200" text-align="center" />
