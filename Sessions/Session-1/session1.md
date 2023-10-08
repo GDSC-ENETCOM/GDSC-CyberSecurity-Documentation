@@ -21,6 +21,7 @@ Cybersecurity protects computer systems, networks, and digital information from 
 In essence, cybersecurity is vital for safeguarding data, preserving trust, maintaining operations, protecting nations, and addressing global cyber threats.
 
 ## 3. Types of Cybersecurity : 
+https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/6#issue-1932046001
 * ### Network Security:
   Protects computer networks from unauthorized access, data breaches, and cyberattacks. It includes technologies like firewalls, intrusion detection systems, and VPNs.
 * ### Endpoint Security:
@@ -39,7 +40,7 @@ And a lot more...
 # Cyberattacks and Threats
 ## 1. Introduction to Cyberattacks
 Cyberattacks are harmful actions that hackers take to break into computer systems, steal information, or disrupt digital operations.
-
+https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/3#issue-1932044287
 ## 2. Common Cyberattacks types
 * ### Malware:
   Malicious software, such as viruses, worms, Trojans, and ransomware, infects systems and can damage, steal, or encrypt data.
@@ -56,11 +57,11 @@ And a lot more...
 
 ## 3. Malware
 Malware is harmful software designed to damage or compromise computers, devices, or networks. It includes viruses, worms, and other malicious programs.
-
+https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/4#issue-1932044571
 # Capture The Flag (CTF)
 ## 1. Introduction to Capture The Flag (CTF)
 A Capture The Flag (CTF) competition is like a cybersecurity game. Participants solve puzzles and find hidden information, called "flags," to earn points. These challenges test their cybersecurity skills, and the goal is to collect as many flags as possible within a time limit. It's a fun way to learn and practice cybersecurity.
-
+https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/issues/1#issue-1932043853
 ## 2. Jeopardy-Style CTF
 * ### Challenges:
   In Jeopardy-style CTFs, challenges are categorized based on different aspects of cybersecurity, such as cryptography, web security, reverse engineering, and more.
